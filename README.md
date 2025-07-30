@@ -10,8 +10,7 @@
 ## 🔧 주요 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-FFBB00?logo=github&logoColor=black)
-![LightGBM](https://img.shields.io/badge/LightGBM-4EB1BA?logo=lightgbm&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/YOLOv5-FFBB00?logo=tensorflow&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -22,37 +21,36 @@
 - 기간: 2022.07 ~ 2022.08  
 - 역할: EDA, 데이터 전처리, 모델링, 최적화, 보고서 작성  
 - 설명: 기상청 데이터를 활용해 자외선 지수를 예측하는 LightGBM 및 Lasso 모델 개발, 공모전 7위 수상  
-- [프로젝트 코드 보기](https://github.com/wwwoong1/프로젝트명) *(링크 수정 필요)*
+- [프로젝트 코드 보기](https://github.com/wwwoong1/Meteorological)
 
 ### 2. 교내 2022-2 경진대회 (우수상)  
 - 역할: EDA, 데이터 전처리, 모델링, 보고서 작성  
 - 설명: Pycaret 활용 최적 모델 선정 및 SHAP Value 기반 변수 중요도 분석  
-- [프로젝트 코드 보기](https://github.com/wwwoong1/프로젝트명) *(링크 수정 필요)*
+- [프로젝트 코드 보기](https://github.com/wwwoong1/Intra-school-competition)
 
 ### 3. 한국 정보 기술 학회 프로젝트  
 - 기간: 2022.06 ~ 2022.08  
 - 역할: 데이터 크롤링, 전처리, 모델링, 보고서 작성  
 - 설명: 크라우드 펀딩 성공 여부 예측, AdaBoost 모델 활용, 학회 동상 수상  
-- [프로젝트 코드 보기](https://github.com/wwwoong1/프로젝트명) *(링크 수정 필요)*
+- [프로젝트 코드 보기](https://github.com/wwwoong1/kmis)
 
 ### 4. 한국 경영 정보 학회 프로젝트  
 - 기간: 2023.06 ~ 2023.09  
 - 역할: AI 이미지 생성 및 전처리, 분류 성능 비교, 보고서 작성  
 - 설명: Stable Diffusion 생성 이미지와 실사 이미지 구분, 전처리 방식별 비교  
-- [프로젝트 코드 보기](https://github.com/wwwoong1/프로젝트명) *(링크 수정 필요)*
+- [프로젝트 코드 보기](https://github.com/wwwoong1/kmis_2)
 
 ### 5. Bigwave 인턴십  
 - 기간: 2023.05 ~ 2023.12  
 - 역할: 배관 이상 탐지 모델 개발, 골프장 자율주행 장애물 인식 데이터 구축  
 - 설명: YOLOv5 및 SAM 모델 활용, 실시간 탐지 모델 최적화 및 세분화 데이터 구축  
-- [프로젝트 코드 보기](https://github.com/wwwoong1/프로젝트명) *(링크 수정 필요)*
+- [프로젝트 코드 보기](https://github.com/wwwoong1/bigwave)
 
 ---
 
 ## 📫 연락처  
-- 이메일: your_email@example.com  
+- 이메일: dndrl3115@gmail.com  
 - 포트폴리오: [Notion 링크](https://notion.so/yourportfolio)  
-- 블로그: [Velog / 티스토리 링크] (선택사항)
 
 ---
 
