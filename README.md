@@ -10,7 +10,7 @@
 ## 🔧 주요 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/YOLOv5-FFBB00?logo=tensorflow&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FFBB00?logo=tensorflow&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
