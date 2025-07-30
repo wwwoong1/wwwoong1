@@ -25,9 +25,10 @@
 - 설명: 기상청 데이터를 활용해 자외선 지수를 예측하는 LightGBM 및 Lasso 모델 개발, 공모전 7위 수상  
 - [프로젝트 보기](https://github.com/wwwoong1/Meteorological)
 
-### 2. 교내 2022-2 경진대회 (우수상)  
+### 2. 교내 데이터 분석 경진대회
+- 기간 : 2022.11 ~ 2022.12
 - 역할: EDA, 데이터 전처리, 모델링, 보고서 작성  
-- 설명: Pycaret 활용 최적 모델 선정 및 SHAP Value 기반 변수 중요도 분석  
+- 설명: Pycaret 활용 최적 모델 선정 및 SHAP Value 기반 변수 중요도 분석, 우수상 수상
 - [프로젝트 보기](https://github.com/wwwoong1/Intra-school-competition)
 
 ### 3. 한국 정보 기술 학회 프로젝트  
@@ -49,19 +50,21 @@
 - [프로젝트 보기](https://github.com/wwwoong1/bigwave)
 
 ### 6. SSACLE (면접 피드백 AI)
-- 기간: SSAFY 과정 중  
+- 기간: 2025. 01. 13 ~ 2025. 02. 21 (6주) 
 - 역할: 데이터 전처리, 모델링, AI 챌린지 참여  
 - 설명: 다양한 AI 챌린지 과제를 해결하며, 팀 단위 협업과 실전 문제 해결 능력 강화  
 - [프로젝트 보기](https://github.com/wwwoong1/SSACLE)
 
 ### 7. Yogayo (요가 자세 분석 AI)  
+- 기간: 2025.02.28 ~ 2025.04.11 (7주)  
 - 역할: 요가 자세 영상 데이터 전처리 및 자세 분석 모델 개발  
 - 설명: BlazePose와 MobileNetV2를 활용한 요가 자세 인식 및 피드백 시스템 개발  
 - [프로젝트 보기](https://github.com/wwwoong1/yogayo)
 
 ### 8. CellCheck (배터리 셀 불량 검사 AI)  
+- 기간: 2025.04.14 ~ 2025.05.23 (6주)
 - 역할: AI 기반 배터리 셀 외관 결함 검사 모델 개발  
-- 설명: YOLOv8 경량 모델을 활용하여 실시간 배터리 결함 탐지 시스템 구축  
+- 설명: YOLOv8 경량 모델을 활용하여 실시간 배터리 결함 탐지 시스템 구축, 지역 최우수상, 전국 본선 입선
 - [프로젝트 보기](https://github.com/wwwoong1/cellcheck)
 
 ---
