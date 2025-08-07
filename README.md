@@ -71,7 +71,7 @@
 
 ## 📫 연락처  
 - 이메일: dndrl3115@gmail.com  
-- 포트폴리오: [Notion 링크](https://notion.so/yourportfolio)  
+- 전화번호: 010-2043-9227
 
 ---
 
