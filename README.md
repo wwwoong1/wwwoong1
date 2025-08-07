@@ -14,7 +14,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FFBB00?logo=tensorflow&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-F05032?logo=tableau&logoColor=white)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]
+
 
 ---
 
