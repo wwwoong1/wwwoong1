@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
