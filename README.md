@@ -10,12 +10,14 @@
 ---
 
 ## 🔧 주요 기술 스택
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FFBB00?logo=tensorflow&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white)
 
 ---
 
