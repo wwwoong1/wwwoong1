@@ -77,6 +77,10 @@
 - 설명: YOLOv8 경량 모델을 활용하여 실시간 배터리 결함 탐지 시스템 구축, 구미 지역 최우수상, 전국 전시발표회 우수상 수상
 - [프로젝트 보기](https://github.com/wwwoong1/cellcheck)
 
+### ETC. 개인 공부 자료
+- 딥러닝 모델 논문 리뷰 정리
+- SSAFY 개인 공부 자료
+- [자료 보기](https://github.com/wwwoong1/study)
 ---
 
 ## 📫 연락처  
