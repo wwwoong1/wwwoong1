@@ -83,7 +83,7 @@
 - 딥러닝 모델 논문 리뷰 정리  
 - SSAFY 개인 공부 자료  
 - [자료 보기](https://github.com/wwwoong1/study)  
-- RanGraph [자료 보기](https://github.com/wwwoong1/RanGraph)
+- [RanGraph](https://github.com/wwwoong1/RanGraph)
 ---
 
 📫 **연락처**  
