@@ -1,4 +1,4 @@
-<img src="14.30-김웅기2_비즈니스-포맷.jpg" width=600 heigh=800>
+<img src="14.30-김웅기2_비즈니스-포맷.jpg" width=600 heigh=800 align=center>
 <h1 align="center">👋 안녕하세요, 김웅기입니다!</h1>
 <p align="center">
   🌱 AI 개발자 & 데이터 분석가<br>
