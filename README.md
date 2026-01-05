@@ -25,6 +25,13 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white)
 ---
 
+### ETC. 개인 공부 자료  
+- 딥러닝 모델 논문 리뷰 정리  
+- SSAFY 개인 공부 자료  
+- [자료 보기](https://github.com/wwwoong1/study)  
+- [RanGraph](https://github.com/wwwoong1/RanGraph)
+
+---
 ## 🗂 주요 프로젝트
 
 ### 1. CellCheck (배터리 셀 불량 검사 AI)  
@@ -83,12 +90,7 @@
 
 ---
 
-### ETC. 개인 공부 자료  
-- 딥러닝 모델 논문 리뷰 정리  
-- SSAFY 개인 공부 자료  
-- [자료 보기](https://github.com/wwwoong1/study)  
-- [RanGraph](https://github.com/wwwoong1/RanGraph)
----
+
 
 📫 **연락처**  
 - 이메일: dndrl3115@gmail.com  
