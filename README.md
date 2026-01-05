@@ -27,7 +27,9 @@
 
 ### ETC. 개인 공부 자료  
 - 딥러닝 모델 논문 리뷰 정리  
-- SSAFY 개인 공부 자료  
+- SSAFY 개인 공부 자료
+- Docker 기본
+- DataBricks 
 - [자료 보기](https://github.com/wwwoong1/study)  
 - [RanGraph](https://github.com/wwwoong1/RanGraph)
 
