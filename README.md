@@ -21,7 +21,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white)
 ---
 
 ## 🗂 주요 프로젝트
