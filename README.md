@@ -31,7 +31,7 @@
 - Docker 기본
 - DataBricks 
 - [자료 보기](https://github.com/wwwoong1/study)  
-- [RanGraph](https://github.com/wwwoong1/RanGraph)
+- [LanGraph](https://github.com/wwwoong1/RanGraph)
 
 ---
 ## 🗂 주요 프로젝트
