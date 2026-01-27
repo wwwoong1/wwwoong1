@@ -56,7 +56,7 @@
 
 ### 4. Bigwave 인턴십  
 - **기간**: 2023.05 ~ 2023.12  
-- **역할**: Labelimg를 활용한 배관 이상 탐지 데이터 라벨링. YOLOv5 기반 이상 탐지 모델 학습 및 실시간 처리 최적화. Segment Anything Model(SAM) 기반 골프장 장애물 세분화 데이터 구축 참여.
+- **역할**: Labelimg를 활용한 배관 이상 탐지 데이터 라벨링. YOLOv5 기반 이상 탐지 모델 학습 및 실시간 처리 최적화. Segment Anything Model(SAM) 기반 골프장 장애물 세분화 데이터 구축 참여, 치아 3D 데이터 라벨링
 - **설명**: 실시간 탐지 모델 최적화 및 산업 현장 적용 데이터 구축 경험  
 - [프로젝트 보기](https://github.com/wwwoong1/bigwave)
 
