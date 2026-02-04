@@ -4,7 +4,7 @@
 <h1 align="center">👋 안녕하세요, 김웅기입니다!</h1>
 <p align="center">
   🌱 AI 개발자 & 데이터 분석가<br>
-  🏫 계명대학교 경영정보학과 (비즈니스 데이터분석 복수전공) 학사<br>
+  🏫 계명대학교 경영정보학 학사 (데이터 사이언스 및 통계학 집중 이수)<br>
   ✏️ SSAFY (Samsung Software AI academy For youth) 12기 비전공 파이썬반 수료<br>
   📚 경영정보학회 프로젝트 및 Bigwave 인턴 경험<br>
   💡 Computer Vision, Object Detection, Segmentation 모델 연구<br>
